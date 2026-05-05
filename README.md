@@ -6,7 +6,7 @@ A **multimodal scam detection system** that analyzes both **text messages and vo
 
 ## 🚀 Live Demo
 
-👉 https://scam-detector-text-voice.streamlit.app/
+👉 https://scam-detector-text-voice-manshi.streamlit.app/
 
 ---
 
